@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Experience
+  - title: <mark>Experience</mark>
     layout: list
     content:
       - layout: right
@@ -57,7 +57,7 @@ content:
           Description of role
       - layout: right
         title: Library of Congress
-        sub_title: Digital Collections Technician
+        sub_title: <mark>Digital Collections Technician</mark>
         caption: November 2022 - January 2024
         description: | # this will include new lines to allow paragraphs
           Description of role  
