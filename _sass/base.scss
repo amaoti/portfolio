@@ -238,4 +238,9 @@ body {
   .no-print, .no-print * {
     display: none !important;
   }
+
+  .container {
+    width: 90%;
+    max-width: none;
+  }
 }
