@@ -127,8 +127,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Smithsonian Institution's National Museum of American History
+        title: National Museum of American History
         sub_title: Museum Ambassador
+        quote: Smithsonian Institution
         caption: July 2023 - Present
         description: | # this will include new lines to allow paragraphs
           Description of role
