@@ -56,13 +56,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        title: Library of Congress
         sub_title: <mark>Digital Collections Technician</mark>
         caption: November 2022 - January 2024
         description: | # this will include new lines to allow paragraphs
           Description of role  
       - layout: right
-        title: Library of Congress
         sub_title: Digital Conversion Technician
         caption: May 2022 - November 2022
         description: | # this will include new lines to allow paragraphs
