@@ -55,7 +55,6 @@ content:
         caption: May 2022 - Present
         description: | # this will include new lines to allow paragraphs
           Description of role
-    content:
       - layout: right
         title: Library of Congress
         sub_title: Digital Collections Specialist
@@ -94,9 +93,6 @@ content:
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
