@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Testing Name
-title: Digital Archivist / Digital Collections Librarian
+title: Digital Archivist & Librarian
 
 
 # Dark Mode (true/false/never)
@@ -37,7 +37,9 @@ linkedin_username: amaobiotiji
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/otiji_headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
- orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [links](http://foobar.com) and highlight things <mark>like this</mark>.
+ Experienced in digital stewardship of cultural heritage collections, with a focus on scalable workflows and equitable access. Skilled in executing large-scale digital projects within complex information architectures that connect people and collections.
+ 
+  [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
@@ -50,18 +52,18 @@ content:
     layout: list
     content:
       - layout: right
-        title: Library of Congress
-        sub_title: <mark>Digital Collections Specialist</mark>
+        title: <mark>Library of Congress</mark>
+        sub_title: <i>Digital Collections Specialist</i>
         caption: January 2024 - Present
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        sub_title: <mark>Digital Collections Technician</mark>
+        sub_title: <i>Digital Collections Technician</i>
         caption: November 2022 - January 2024
         description: | # this will include new lines to allow paragraphs
           Description of role  
       - layout: right
-        sub_title: Digital Conversion Technician
+        sub_title: <i>Digital Conversion Technician</i>
         caption: May 2022 - November 2022
         description: | # this will include new lines to allow paragraphs
           Description of role  
