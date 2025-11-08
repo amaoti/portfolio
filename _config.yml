@@ -53,10 +53,15 @@ content:
         title: Library of Congress
         sub_title: Digital Collections Specialist
         caption: May 2022 - Present
-        quote: >
-          Research Library & Digital Preservation Leader
         description: | # this will include new lines to allow paragraphs
           Description of role
+    content:
+      - layout: right
+        title: Library of Congress
+        sub_title: Digital Collections Specialist
+        caption: May 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+          Description of role  
   - title: Education
     layout: list
     content:
