@@ -123,12 +123,15 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: Professional Service
+    layout: list
+    content:
+      - layout: right
+        title: Smithsonian Institution's National Museum of American History
+        sub_title: Museum Ambassador
+        caption: July 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          Description of role
 
 
 # Footer
