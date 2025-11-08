@@ -51,7 +51,7 @@ content:
     content:
       - layout: right
         title: Library of Congress
-        sub_title: Digital Collections Specialist
+        sub_title: <mark>Digital Collections Specialist</mark>
         caption: January 2024 - Present
         description: | # this will include new lines to allow paragraphs
           Description of role
