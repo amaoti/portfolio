@@ -134,7 +134,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
 
-(images/banner.jpg "Photo from National Book Festival 2024 Showing By The People Table and LOC staff talking to the public")
+![Photo from National Book Festival 2024 Showing By The People Table and LOC staff talking to the public](images/banner.jpg)
+
 
 # Footer
 footer_show_references: true
