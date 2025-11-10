@@ -62,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        title: "<mark>Creekside Digital</mark>"
+        title: "Creekside Digital"
         sub_title: "<i>Digital Technician Supervisor</i>"
         caption: May 2018 - April 2020
         description: | # this will include new lines to allow paragraphs
