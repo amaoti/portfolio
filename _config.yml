@@ -58,8 +58,6 @@ content:
       - layout: right
         title: "National Museum of American History"
         sub_title: "<i>Digital Assets Contractor</i>"
-        quote: >
-          Smithsonian Institution
         caption: April 2020 - April 2022
         description: | # this will include new lines to allow paragraphs
           Description of role
@@ -70,10 +68,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        title: "Smithsonian Institution, National Museum of American History"
+        title: "National Museum of American History"
         sub_title: "<i>Collections Intern</i>"
-        quote: >
-          Smithsonian Institution
         caption: January 2018 - May 2018
         description: | # this will include new lines to allow paragraphs
           Description of role
@@ -135,6 +131,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
 
+
+
+  - title: "Professional Service <img src='images/banner.png' alt='Photo from National Book Festival 2024 showing By The People table and LOC staff talking to the public' />"
+    layout: list
+    content:
+      - layout: right
+        title: National Museum of American History
+        sub_title: Museum Ambassador
+        quote: Smithsonian Institution
+        caption: July 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
   - title: Media & Outreach
     layout: list
     content:
@@ -151,18 +160,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-
-  - title: "Professional Service <img src='images/banner.png' alt='Photo from National Book Festival 2024 showing By The People table and LOC staff talking to the public' />"
-    layout: list
-    content:
-      - layout: right
-        title: National Museum of American History
-        sub_title: Museum Ambassador
-        quote: Smithsonian Institution
-        caption: July 2023 - Present
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-
 # Footer
 footer_show_references: true
 # references_title: Full CV available upon request
