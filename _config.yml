@@ -67,6 +67,22 @@ content:
         caption: May 2022 - November 2022
         description: | # this will include new lines to allow paragraphs
           Description of role  
+                - layout: right
+        title: <mark>Smithsonian Institutional, National Museum of American History</mark>
+        sub_title: <i>Digital Assets Contractor</i>
+        caption: April 2020 - April 2022
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+        title: <mark>Creekside Digital</mark>
+        sub_title: <i>Digital Technician Supervisor</i>
+        caption: May 2018 - April 2020
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+        title: <mark>Smithsonian Institutional, National Museum of American History</mark>
+        sub_title: <i>Collections Intern</i>
+        caption: May 2018 - April 2020
+        description: | # this will include new lines to allow paragraphs
+          Description of role
   - title: Education
     layout: list
     content:
