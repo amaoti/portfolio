@@ -88,12 +88,12 @@ content:
           Concentration: Technology, Information, and Management <a href="https://comminfo.rutgers.edu/graduate-programs/master-information/concentrations/technology-information-and-management">↗️</a>
                 - layout: top-right
         title: Howard University
-        sub_title: Master of Information
+        sub_title: Bachelor of Arts, History
         caption: 2014-2018
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Concentration: Technology, Information, and Management 
+          Areas of Concentration: United States History; African History
   - title: Awards & Honors
     layout: list
     content:
