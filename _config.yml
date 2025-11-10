@@ -71,13 +71,29 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Rutgers University - New Brunswick
+        sub_title: Master of Information
+        caption: 2023 - 2025
+        quote: >
+          Specialized Courses:
+          - Digital Curation
+          - Digital Preservation
+          - Metadata for Information Professionals
+          - Records Management
+          - Database Design and Management
+          - Management Principles in Information Organizations
+          - Knowledge Management in Organizations
+          - Government Information Resources
+        description: | # this will include new lines to allow paragraphs
+          Concentration: Technology, Information, and Management <a href="https://comminfo.rutgers.edu/graduate-programs/master-information/concentrations/technology-information-and-management">↗️</a>
+                - layout: top-right
+        title: Howard University
+        sub_title: Master of Information
+        caption: 2014-2018
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Concentration: Technology, Information, and Management 
   - title: Awards & Honors
     layout: list
     content:
