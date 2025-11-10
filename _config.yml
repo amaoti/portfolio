@@ -88,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <b>Concentration:</b> Technology, Information, and Management <a href="https://comminfo.rutgers.edu/graduate-programs/master-information/concentrations/technology-information-and-management">↗️</a>
           <br>
-          Concentration Courses:
+          <b>Concentration Courses:</b>
           - Database Design and Management
           - Digital Curation
           - Digital Preservation
