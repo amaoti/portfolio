@@ -56,8 +56,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: right
-        title: "Smithsonian Institution, National Museum of American History"
+        title: "National Museum of American History"
         sub_title: "<i>Digital Assets Contractor</i>"
+        quote: >
+          Smithsonian Institution
         caption: April 2020 - April 2022
         description: | # this will include new lines to allow paragraphs
           Description of role
@@ -70,6 +72,8 @@ content:
       - layout: right
         title: "Smithsonian Institution, National Museum of American History"
         sub_title: "<i>Collections Intern</i>"
+        quote: >
+          Smithsonian Institution
         caption: January 2018 - May 2018
         description: | # this will include new lines to allow paragraphs
           Description of role
