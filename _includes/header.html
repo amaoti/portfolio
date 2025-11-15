@@ -55,6 +55,16 @@
             </a>
           </li>
         {%- endif -%}
+
+        <!-- ⭐ Academic Portfolio Icon (internal link) -->
+        {%- if site.academic_portfolio_url -%}
+          <li>
+            <a href="{{ site.academic_portfolio_url | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa-solid fa-graduation-cap" title="Academic Portfolio"></i>
+            </a>
+          </li>
+        {%- endif -%}
+
         {%- if site.xing_username -%}
           <li>
             <a target="_blank" href="https://www.xing.com/profile/{{ site.xing_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
